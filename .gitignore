@@ -2,3 +2,5 @@ credentials.json
 .ipynb_checkpoints/*
 stream_output.json
 stream_output2.json
+stream_output*
+stream_output_user_location.json
