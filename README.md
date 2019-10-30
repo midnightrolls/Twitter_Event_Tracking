@@ -4,13 +4,13 @@ A visualization of Twitter data related to Hong Kong based on time and location
 
 Written in Python using Jupyter Notebooks. Specifically using PySpark, Kafka, GeoPy, Plotly
 
-![Architecture](architecture.jpg)
+![Architecture](images/architecture.jpg)
 
-![Lines](lines.png)
+![Lines](images/lines.png)
 
-![Zoomed_lines](lines_zoomed.png)
+![Zoomed_lines](images/lines_zoomed.png)
 
-![Dots](dots.png)
+![Dots](images/dots.png)
 ## Installation and Setup Instructions
 
 Clone this repository. You will need credentials for Twitter API developer access, and Plotly map visualization. 
